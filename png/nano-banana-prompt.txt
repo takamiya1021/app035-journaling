@@ -1,0 +1,73 @@
+# ナノバナナ用プロンプト：App 35「ジャーナリングアプリ」
+
+## メイン画面の完成イメージ
+
+```
+Modern web application UI design for a warm journaling app.
+Background: Cream/beige gradient (#FFF9E6 to #FFEDD5) with subtle paper texture overlay.
+
+Top navigation:
+- App title "📖 ジャーナル" in handwriting-style font
+- Navigation chips: [← カレンダー] [リスト →]
+
+Date display:
+- "📅 2025年1月13日 (月) 20:30" in warm brown text
+
+Main writing area:
+- Large notebook-style textarea with subtle ruled lines
+- Paper texture background with slight grain
+- Handwriting-style Japanese text partially filled: "今日は仕事で大きな成果があった..."
+- Soft shadow giving depth like real paper
+
+Below writing area:
+- Tag input: "🏷️ タグ:" with pills [健康] [仕事] [+追加]
+- Category dropdown: "📂 カテゴリ: [プライベート ▼]"
+- Image upload button: "🖼️ [画像添付]"
+
+Save button:
+- Rounded button with warm orange gradient (#FF9966)
+- "💾 保存" text in white
+
+AI section:
+- Card with warm peach background (#FFE5CC)
+- Title "🤖 AI機能"
+- Four buttons in grid:
+  - [✨ AIと会話] (prominent, larger)
+  - [📊 感情分析]
+  - [📝 要約]
+  - [🔄 振り返り]
+
+AI conversation preview (if active):
+- Chat bubble interface below
+- AI message with avatar: "その成果について、どんな気持ちですか？"
+- User input box with [送信] button
+
+Bottom monthly calendar mini-view:
+- Small calendar grid showing January 2025
+- Dates with entries marked with small dots
+- Current date highlighted
+
+Color scheme:
+- Background: Cream (#FFF9E6), Beige (#FFEDD5)
+- Primary: Warm orange (#FF9966), Peach (#FFCC99)
+- Accent: Soft pink (#FFB3BA)
+- Text: Warm brown (#654321)
+- Cards: Light cream with subtle shadow
+
+Typography:
+- Headers: Handwriting-style Japanese font (Noto Sans JP)
+- Body: Clean readable sans-serif
+
+Decorative elements:
+- Soft corner decorations with leaf/nature motifs
+- Subtle warm glow around interactive elements
+
+Style: Warm, inviting, notebook aesthetic, cozy and personal
+Layout: Vertical, centered, mobile-friendly with generous padding
+
+--ar 9:16 --style warm illustration with paper texture --quality high
+```
+
+## 使い方
+このプロンプトをナノバナナにコピー&ペーストして画像生成してください。
+生成された画像を `complete-image.png` として保存してください。

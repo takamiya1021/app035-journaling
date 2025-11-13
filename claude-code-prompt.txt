@@ -1,0 +1,11 @@
+以下のドキュメントを読んで、App 35「ジャーナリングアプリ」を実装してください。
+
+📄 ドキュメント:
+- doc/requirements.md
+- doc/technical-design.md
+- doc/implementation-plan.md
+
+🖼️ 完成イメージ:
+- png/complete-image.png
+
+実装計画書のPhase 0から順番に、TDD準拠（Red-Green-Refactor）で進めてください。
