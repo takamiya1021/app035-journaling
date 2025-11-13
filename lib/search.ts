@@ -24,7 +24,7 @@ export interface FilterOptions {
  * - tags: 20%の重み（タグも重要）
  * - category: 10%の重み（カテゴリは補助的）
  */
-const fuseOptions: Fuse.IFuseOptions<JournalEntry> = {
+const fuseOptions = {
   keys: [
     { name: 'content', weight: 0.7 },
     { name: 'tags', weight: 0.2 },
